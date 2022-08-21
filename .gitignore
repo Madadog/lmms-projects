@@ -1,0 +1,13 @@
+samples.tar.7z
+.zynaddsubfxXML.cfg
+recover.mmp.bak
+/samples
+/templates
+/plugins
+/presets
+/projects/covers/*
+/projects/mashups
+
+# Unhide
+!/projects/covers/right-enemy.mmpz
+!/projects/covers/makebavnia.mmpz
