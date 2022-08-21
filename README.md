@@ -24,7 +24,7 @@ Probably a couple more I forgot|World Wide Web|
 
 Also there are some Carla instances. They don't work for me either.
 
-I don't think there are any Vestige instancse / plugins, but if there are, just replace them with the default TripleOscillator. Enjoy the clipping.
+I don't think there are any Vestige instances / plugins, but if there are, just replace them with the default TripleOscillator. Enjoy the clipping.
 
 # TODO
 * Upload renders
