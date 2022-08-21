@@ -1,28 +1,30 @@
-# What's this?
-Just a couple [LMMS](https://github.com/LMMS/lmms) projects I made. 
+# LMMS Projects / What's this?
+Just a couple [LMMS](https://github.com/LMMS/lmms) projects I made.
 
-Some projects require Nightly LMMS (1.3.0-alpha)
+Some projects require Nightly LMMS (1.3.0-alpha) to load correctly.
 
 Some projects may be incomplete, or Just Plain Bad™
 
 # Soundfonts and Samples
-While some projects will work out of the box (such as [`whee-riff-man.mmpz`](/projects/whee-riff-man.mmpz)), some projects will require you to download some of these soundfonts and put them in your `lmms/samples/soundfonts/` folder:
+While some projects will work out of the box (such as [`whee-riff-man.mmpz`](/projects/whee-riff-man.mmpz)), some other projects will require you to download some of these soundfonts and put them in your `lmms/samples/soundfonts/` folder:
 
-Soundfont| Link|-
+Soundfont (From most important to least)|Link||
 |---|---|---|
-SGM V2.01:| https://archive.org/details/SGM-V2.01|-
-Earthbound Soundfont:| http://www.williamkage.com/snes_soundfonts/earthbound_soundfont.zip|-
+SGM V2.01:| https://archive.org/details/SGM-V2.01|
+Earthbound Soundfont:| http://www.williamkage.com/snes_soundfonts/earthbound_soundfont.zip|
 PC51d:| https://archive.org/download/free-soundfonts-sf2-2019-04/PC51d.sf2|
-GeneralUser GS:| https://archive.org/download/free-soundfonts-sf2-2019-04/GeneralUser%20GS%20v1.471.sf2|-
-Chrono Trigger Soundfont:| https://musical-artifacts.com/artifacts/194/ctsf2.zip|-
-Yet Another Earthbound Soundfont:| https://musical-artifacts.com/artifacts/665/Earthbound_NEW.sf2|-
-Probably a couple more I forgot|World Wide Web|-
+GeneralUser GS:| https://archive.org/download/free-soundfonts-sf2-2019-04/GeneralUser%20GS%20v1.471.sf2|
+Ultimate Megadrive Soundfont:|https://musical-artifacts.com/artifacts/24/The_Ultimate_Megadrive_Soundfont.zip|
+Chrono Trigger Soundfont:| https://musical-artifacts.com/artifacts/194/ctsf2.zip|
+THInst|https://musical-artifacts.com/artifacts/1327/THCollection.zip|
+Yet Another Earthbound Soundfont:| https://musical-artifacts.com/artifacts/665/Earthbound_NEW.sf2|
+Probably a couple more I forgot|World Wide Web|
 
 ... As for the missing drums and other samples, there can be no help: You will just have to replace them with stock LMMS samples and see how it goes.
 
 Also there are some Carla instances. They don't work for me either.
 
-I don't think there are any VSTS, but if there are, just replace them with the default TripleOscillator. Enjoy the clipping.
+I don't think there are any Vestige instancse / plugins, but if there are, just replace them with the default TripleOscillator. Enjoy the clipping.
 
 # TODO
 * Upload renders
