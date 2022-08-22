@@ -1,12 +1,14 @@
 samples.tar.7z
 .zynaddsubfxXML.cfg
 recover.mmp.bak
+recover.mmp
 /samples
 /templates
 /plugins
 /presets
 /projects/covers/*
 /projects/mashups
+*.bak
 
 # Unhide
 !/projects/covers/right-enemy.mmpz
