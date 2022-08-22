@@ -1,14 +1,14 @@
 # LMMS Projects / What's this?
 Just a couple [LMMS](https://github.com/LMMS/lmms) projects I made.
 
-Some quick sample projects that work on a fresh LMMS install (no external samples or soundfonts required):
+Note:
+* Some projects require Nightly LMMS (1.3.0-alpha) to load completely
+* Some projects are unfinished
+
+Here's some quick sample projects that work on a fresh LMMS install (no external samples or soundfonts required):
 * [tecchnoV2imprived.mmpz](/projects/tecchnoV2imprived.mmpz)
 * [wondrouspoppingcorn.mmpz](/projects/snippets/wonderouspoppingcorn.mmpz)
 * [sidechainingexists-001-V2.mmpz](/projects/sidechainingexists-001-V2.mmpz)
-
-Note:
-* Some projects require Nightly LMMS (1.3.0-alpha) to load completely
-* Some projects may be incomplete, or Just Plain Bad™
 
 # Soundfonts and Samples
 While some projects will work out of the box (such as [`whee-riff-man.mmpz`](/projects/whee-riff-man.mmpz)), some other projects will require you to download some of these soundfonts and put them in your `lmms/samples/soundfonts/` folder:
