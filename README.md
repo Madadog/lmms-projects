@@ -26,11 +26,11 @@ Soundfonts (From most important to least)|Info||
 Probably a couple more I forgot|World Wide Web|
 
 ## Drums
-The drumkits must be extracted and placed into a folders under `lmms/samples/--/drumkits`
+The drumkits must be extracted and placed under `lmms/samples/--/drumkits`
 Sample Source|Note||
 ---|---|---
 [99kits](http://slackermedia.info/sprints/multimediaSprint_v2/99_hydrogenDrumkits.tar) ([alternate source](https://musical-artifacts.com/artifacts?q=Klaatu))|More [info](https://data.musical-artifacts.com/99kits/) about the origin and licenses of this kit.|
-Any other missing samples|IDK, look for them on [youtube](youtube.com).|
+Any other missing samples|Try looking on [youtube](youtube.com).|
 
 Also there are some Carla instances. They don't work for me either.
 
