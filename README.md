@@ -9,6 +9,7 @@ Here's some quick sample projects that work on a fresh LMMS install (no external
 * [tecchnoV2imprived.mmpz](/projects/tecchnoV2imprived.mmpz)
 * [wondrouspoppingcorn.mmpz](/projects/snippets/wonderouspoppingcorn.mmpz)
 * [sidechainingexists-001-V2.mmpz](/projects/sidechainingexists-001-V2.mmpz)
+* [rhapsony.mmpz](/projects/rhapsony.mmpz)
 
 # Soundfonts and Samples
 While some projects will work out of the box (such as [`whee-riff-man.mmpz`](/projects/whee-riff-man.mmpz)), some other projects will require you to download some of these soundfonts and put them in your `lmms/samples/soundfonts/` folder:
@@ -41,8 +42,7 @@ I don't think there are any Vestige instances / plugins, but if there are, just 
 * Add Ardour projects? (Blocking on Very Large File Size)
     * Use Ardour's archive feature??? 
         * Pros: Soundfonts are bundled.
-        * Cons: Soundfonts are bundled. ~200mb per Ardour project. What's Github's storage limit?
-* Remove backup files
+        * Cons: Soundfonts are bundled. ~200mb per Ardour project. Does Github have a storage limit?
 * Add missing LMMS projects
 
 # License
