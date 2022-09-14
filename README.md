@@ -6,10 +6,10 @@ Note:
 * Some projects are unfinished
 
 Here's some quick sample projects that work on a fresh LMMS install (no external samples or soundfonts required):
-* [tecchnoV2imprived.mmpz](/projects/tecchnoV2imprived.mmpz)
+* [tecchnoV2imprived.mmpz](/projects/unorganised/tecchnoV2imprived.mmpz)
 * [wondrouspoppingcorn.mmpz](/projects/snippets/wonderouspoppingcorn.mmpz)
-* [sidechainingexists-001-V2.mmpz](/projects/sidechainingexists-001-V2.mmpz)
-* [rhapsony.mmpz](/projects/rhapsony.mmpz)
+* [sidechainingexists-001-V2.mmpz](/projects/unorganised/sidechainingexists-001-V2.mmpz)
+* [rhapsony.mmpz](/projects/unorganised/rhapsony.mmpz)
 
 ##### Table of Contents  
 [Project Structure](#project-structure)
@@ -29,7 +29,7 @@ Here's some quick sample projects that work on a fresh LMMS install (no external
 * [unorganised](/projects/unorganised) is where everything else went (mostly stuff from before 2021).
 
 # Soundfonts and Samples
-While some projects will work out of the box (such as [`whee-riff-man.mmpz`](/projects/whee-riff-man.mmpz)), some other projects will require you to download some of these soundfonts and put them in your `lmms/samples/soundfonts/` folder:
+While some projects will work out of the box (such as [`whee-riff-man.mmpz`](/projects/unorganised/whee-riff-man.mmpz)), some other projects will require you to download some of these soundfonts and put them in your `lmms/samples/soundfonts/` folder:
 
 Soundfonts (From most important to least)|Info||
 |---|---|---|
