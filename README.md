@@ -1,4 +1,4 @@
-# LMMS Projects / What's this?
+# LMMS Projects
 Just a couple [LMMS](https://github.com/LMMS/lmms) projects I made.
 
 Note:
@@ -11,20 +11,37 @@ Here's some quick sample projects that work on a fresh LMMS install (no external
 * [sidechainingexists-001-V2.mmpz](/projects/sidechainingexists-001-V2.mmpz)
 * [rhapsony.mmpz](/projects/rhapsony.mmpz)
 
+##### Table of Contents  
+[Project Structure](#project-structure)
+
+[Soundfonts and Samples](#soundfonts-and-samples)
+
+[Drums](#drums)
+
+[TODO](#todo)
+
+[License](#license)
+
+# Project Structure
+* [snippets](/projects/snippets/) is where I dump any new projects that don't fit into other categories.
+* [games](/projects/games/), [dreams](/projects/dreams/), [fivehundred](/projects/fivehundred/) and [twistending](/projects/twistending/) are all for game music.
+* [covers](/projects/covers/) contains extra fun projects.
+* [unorganised](/projects/unorganised) is where everything else went (mostly stuff from before 2021).
+
 # Soundfonts and Samples
 While some projects will work out of the box (such as [`whee-riff-man.mmpz`](/projects/whee-riff-man.mmpz)), some other projects will require you to download some of these soundfonts and put them in your `lmms/samples/soundfonts/` folder:
 
 Soundfonts (From most important to least)|Info||
 |---|---|---|
 [SGM V2.01](https://archive.org/details/SGM-V2.01)|Used all over the place.|
-[Earthbound Soundfont](http://www.williamkage.com/snes_soundfonts/earthbound_soundfont.zip)|Used at random.|
-[PC51d](https://archive.org/download/free-soundfonts-sf2-2019-04/PC51d.sf2)||
-[GeneralUser GS](https://archive.org/download/free-soundfonts-sf2-2019-04/GeneralUser%20GS%20v1.471.sf2)|Actually good soundfont.|
+[Earthbound Soundfont](http://www.williamkage.com/snes_soundfonts/earthbound_soundfont.zip)|Used all over the place, sporadically.|
+[PC51d](https://archive.org/download/free-soundfonts-sf2-2019-04/PC51d.sf2)|Used by 10 projects?|
+[GeneralUser GS](https://archive.org/download/free-soundfonts-sf2-2019-04/GeneralUser%20GS%20v1.471.sf2)|Used by like 1 project, but still more important than the soundfonts below.|
 [Chrono Trigger Soundfont](https://musical-artifacts.com/artifacts/194/ctsf2.zip)|Used by like ~5 projects|
 [Ultimate Megadrive Soundfont](https://musical-artifacts.com/artifacts/24/The_Ultimate_Megadrive_Soundfont.zip)|Used by like ~3 projects|
-[THInst](https://musical-artifacts.com/artifacts/1327/THCollection.zip)||
+[THInst](https://musical-artifacts.com/artifacts/1327/THCollection.zip)|1 or 2 projects???|
 [Yet Another Earthbound Soundfont](https://musical-artifacts.com/artifacts/665/Earthbound_NEW.sf2)|Yes, this is different from the other soundfont. Learn from my mistakes: Manage your samples.|
-Probably a couple more I forgot|World Wide Web|
+Possibly a couple more I forgot|World Wide Web|
 
 ## Drums
 The drumkits must be extracted and placed under `lmms/samples/--/drumkits`
