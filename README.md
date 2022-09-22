@@ -1,5 +1,5 @@
 # LMMS Projects
-Just a couple [LMMS](https://github.com/LMMS/lmms) projects I made.
+Just a couple music projects I made (with [LMMS](https://github.com/LMMS/lmms)).
 
 Note:
 * Some projects require Nightly LMMS (1.3.0-alpha) to load completely
@@ -12,18 +12,14 @@ Here's some quick sample projects that work on a fresh LMMS install (no external
 * [rhapsony.mmpz](/projects/unorganised/rhapsony.mmpz)
 
 ##### Table of Contents  
-[Project Structure](#project-structure)
-
-[Soundfonts and Samples](#soundfonts-and-samples)
-
-[Drums](#drums)
-
-[TODO](#todo)
-
-[License](#license)
+1. [Project Structure](#project-structure)
+2. [Soundfonts and Samples](#soundfonts-and-samples)
+3. [Drums](#drums)
+4. [TODO](#todo)
+5. [License](#license)
 
 # Project Structure
-* [snippets](/projects/snippets/) is where I dump any new projects that don't fit into other categories.
+* [snippets](/projects/snippets/) is where I dump any new projects that don't fit into other categories (i.e. almost everything).
 * [games](/projects/games/), [dreams](/projects/dreams/), [fivehundred](/projects/fivehundred/) and [twistending](/projects/twistending/) are all for game music.
 * [covers](/projects/covers/) contains extra fun projects.
 * [unorganised](/projects/unorganised) is where everything else went (mostly stuff from before 2021).
